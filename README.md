@@ -1,5 +1,5 @@
 # spk-smart
-- Sistem Penunjang Keputusan dengan Menggunakan Metode SMART ( Simple Multi. Attribute Rating Technique )
+- Penerapan Sistem Penunjang Keputusan dengan Menggunakan Metode SMART ( Simple Multi. Attribute Rating Technique ) untuk Rekrutmen Karyawan Baru
 
 ![depan](https://github.com/Aliffaridrhmn25/spk-smart/assets/135413797/969baa2d-b432-4e25-b65d-ca49721f35d1)
 ![login](https://github.com/Aliffaridrhmn25/spk-smart/assets/135413797/ff1fe7c5-0377-4502-96a6-7e95e1c218ac)
