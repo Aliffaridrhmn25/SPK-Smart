@@ -1,0 +1,110 @@
+body{
+	font-family: Tahoma;
+	text-align: center;
+	background: #b84b31;
+}
+
+#menu {
+	float: left
+	position: absolute;
+	top: 107px;
+	width: 180px;
+}
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+#menu li {
+	border-bottom: 1px solid #969BA5;
+	margin: 0;
+	padding: 1px;
+	font-size: 80%;
+	vertical-align: bottom; 
+}
+#menu a:link, #menu a:visited {
+	display: block;
+	padding: 2px 5px 2px 0.5em;
+	border-right: 1px solid #265180;
+	background-color: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+}
+#menu a:hover {
+	background-color: #DFDFDF;
+	color: #000000;
+}
+#menu_top {
+	width: 80%;
+	padding: 2px 30px 2px 15px;
+}
+#menu_top a {
+	color: #FFFFFF;
+	font-family: tahoma;
+	font-size: 12px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#menu_top a:hover {
+	color: #0000FF;
+	text-decoration: none;
+	font-weight: bold;
+}
+#tahoma {
+	font-family: tahoma;
+	font-size: 12px;
+}
+#tahoma a {
+	color: #0000FF;
+	text-decoration: none;
+}
+#tahoma a:hover {
+	color: #FF0000;
+	text-decoration;
+}
+h4 a{
+	color: #0000FF;
+	text-decoration: none;
+}
+h4 a:hover {
+	color: #FF0000;
+	text-decoration: none;
+}
+
+#konten{
+	color: #FFFFFF;
+	font-size: 7pt;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 0.5em;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+	background-color: #777;
+}
+#kontentd{
+	padding: 0.5em;
+	vertical-align: top;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #969BA5;
+	border-collapse: collapse;
+}
+
+#tablekonten {
+	font-family: Tahoma; 
+	font-size: 8pt;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin: 10px 0px;
+}
+
+#paging{
+	font-family: tahoma;
+	font-size: 12px;
+}
