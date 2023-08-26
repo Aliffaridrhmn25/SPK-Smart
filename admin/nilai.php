@@ -5,7 +5,7 @@
     <table class="table table-bordered">
         <thead>
             <tr>
-                <th>No</th>
+            
                 <th>kode alternatif</th>
                 <th>Kriteria 1 </th>
                 <th>Kriteria 2 </th>
