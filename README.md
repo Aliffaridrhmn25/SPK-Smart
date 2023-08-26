@@ -11,6 +11,10 @@
 - Data Kriteria
   yang mana disini berisi pembobotan nilai berdasarkan kriteria yang dibutuhkan dari karyawan berisi Kode kriteria, Nama kriteria dan bobot
 ![Data Kriteria](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/329b9a2f-3eb9-4684-ab48-57a92e71e744)
-- 
-![Data Nilai Alternatif](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/f1fba0bf-1040-436c-9935-c83bd1963232)
+-  Berisi data alternatif/nama kandidat yang akan di perhitungkan
+![Data Alternatif](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/1271f5ba-cd3c-4d9d-95cf-1ffbc98a943e)
+- Tampilan nilai yang didapatkan oleh alternatif dengan nilai kriteria masing-masing
+[Data Nilai Alternatif](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/f1fba0bf-1040-436c-9935-c83bd1963232)
+- Tampilan hasil perhitungan yang didapatkan-
+dapat dilihat kandidat mana yang layak terpilih
 ![Nilai Akhir Perhitungan](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/18aa13ef-a7c6-40ae-93c2-f3f81d446ee9)
