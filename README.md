@@ -1,8 +1,16 @@
 # spk-smart
 - Penerapan Sistem Penunjang Keputusan dengan Menggunakan Metode SMART ( Simple Multi. Attribute Rating Technique ) Untuk Rekrutmen Karyawan Baru
+- Tampilan Awal 
 ![Depan](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/b2cf8365-b7ed-4dec-afa3-5a76ccc92771)
-
+- Nama anggota Kelompok yang ikut serta dalam perancangan program SPK ini
+![tentang](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/fc712e08-84d2-4fcb-a77a-2dbefa36c045)
+- Tampilan Login
+  Username : admin
+  password : admin
+![Login](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/934be7e2-3454-4b1f-bfe7-b107e6f83663)
+- Data Kriteria
+  yang mana disini berisi pembobotan nilai berdasarkan kriteria yang dibutuhkan dari karyawan berisi Kode kriteria, Nama kriteria dan bobot
 ![Data Kriteria](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/329b9a2f-3eb9-4684-ab48-57a92e71e744)
-![Nilai Kriteria](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/0692bc3b-683b-42eb-b13e-e94377472d65)
-![alter](https://github.com/Aliffaridrhmn25/spk-smart/assets/135413797/fd937ab1-e85a-4a25-a4a6-9b903030a96c)
-![hasil](https://github.com/Aliffaridrhmn25/spk-smart/assets/135413797/06852200-003d-46b7-b486-ab60181662ce)
+- 
+![Data Nilai Alternatif](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/f1fba0bf-1040-436c-9935-c83bd1963232)
+![Nilai Akhir Perhitungan](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/18aa13ef-a7c6-40ae-93c2-f3f81d446ee9)
