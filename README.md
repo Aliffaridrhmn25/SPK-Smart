@@ -1,4 +1,5 @@
 # spk-smart
+Aplikasi yang digunakan sebagai penunjang keputusan dengan metode smart membantu pengguna dalam merekrutmen karyawan baru berdasarkan data kriteria, data alternatif, data nilai alternatif dan perhitungan hasil akhir yang di urutkan berdasarkan perangkingan, aplikasi web ini menerapkan metode CRUD dengan role sisi admin untuk mengubah nilai-nilai yang ada.
 - Penerapan Sistem Penunjang Keputusan dengan Menggunakan Metode SMART ( Simple Multi. Attribute Rating Technique ) Untuk Rekrutmen Karyawan Baru
 - Tampilan Awal 
 ![Depan](https://github.com/Aliffaridrhmn25/SPK-Smart/assets/135413797/b2cf8365-b7ed-4dec-afa3-5a76ccc92771)
